@@ -22,3 +22,12 @@ III. Library Installation (run as administrator)
 1. Open your command prompt then type "pip install -U selenium"
 2. Then install robot framework by typing “pip install -U robotframework” 
 3. Next, install robot framework with selenium library by typing $“pip install --upgrade robotframework-selenium2library"
+4. 4. And type "pip install robotframework-pabot 
+
+IV. Running the automation script
+1. Open cmd
+2. Type "git clone -b <your branch> <HTTP Link>
+3. Open Pycharm
+4. Click File and then select Open
+5. Go to the folder that you clone from the branch
+6. Go to the terminal and type "robot -i login tests"
