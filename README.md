@@ -26,7 +26,7 @@ III. Library Installation (run as administrator)
 
 IV. Running the automation script
 1. Open cmd
-2. Type "git clone -b <your branch> <HTTP Link>
+2. Type "git clone origin https://github.com/filpangilinan/optimyappAutoScripts.git
 3. Open Pycharm
 4. Click File and then select Open
 5. Go to the folder that you clone from the branch
